@@ -1,0 +1,9 @@
+*.beam
+*.pdf
+*.exe
+*.jar
+/ignore
+*/*.beam
+*.gif
+*.txt
+*.sgi
